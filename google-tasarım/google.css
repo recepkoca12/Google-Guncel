@@ -1,0 +1,162 @@
+header>nav>a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 14px;
+    width: 50px;
+    
+    
+}
+a.about{
+    position: fixed;
+    top: 9px;
+    left: 9px;
+}
+a.store{
+    position: fixed;
+    top: 9px;
+    left: 55px;
+}
+a.nav-fourth-class{
+    float:right;
+    position: fixed;
+    top: 9px;
+    right: 105px;
+    
+}
+a.nav-third-class{
+    float: right;
+    position: fixed;
+    top: 9px;
+    right: 150px;
+   
+    
+    
+}
+a.application{
+   float: right;
+   position: fixed;
+   top: 5px;
+   right: 55px;
+   
+}
+button.sign-in{
+    color: white;
+    background-color:dodgerblue;
+    position: fixed;
+   top: 5px;
+   right: 5px;
+   border-color: antiquewhite;
+   border-radius: 8px;
+}
+
+img.google-logo{
+   
+   margin-left: 480px;
+   width: 500px;  
+  
+}
+input.searching{
+    border-radius: 20px;
+    width: 500px;
+    height: 30px;
+    margin-left: 470px;
+    margin-bottom: 200px;
+    position: fixed;
+    top: 300px;
+    padding-left: 40px;
+    
+    
+}
+button.buton{
+    width: 140px;
+    margin-left: 590px;
+    height: 30px;
+    position: fixed;
+    top: 360px;  
+    color: #5f6368;
+    border-color: aliceblue;
+}
+button.buton-1{
+    width: 140px;
+    height: 30px;
+    position: fixed;
+    top: 360px;
+    margin-left: 750px;
+    color: #5f6368;
+    border-color: aliceblue;
+
+}
+footer{
+    background-color:silver;
+    position: fixed;
+    height: 35px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    
+  
+}
+a.advertesing{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    padding-left: 10px;
+    position: fixed;
+    padding-top: 8px;
+}
+a.bussines{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    padding-left: 105px;
+    padding-top: 8px;
+    position: fixed;
+    
+}
+a.how-search{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    padding-left: 185px;
+    padding-top: 8px;
+    position: fixed;
+}
+a.privacy{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    position: fixed;
+    padding-left: 1320px;
+    padding-top: 8px;
+}
+a.terms{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    position: fixed;
+    padding-left: 1390px;
+    padding-top: 8px;
+}
+a.settings{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    position: fixed;
+    padding-top: 8px;
+    padding-left: 1450px;
+}
+img.search-logo{
+    width: 20px;
+    position: fixed;
+    top: 310px;
+    left: 495px;
+    
+}
+img.mikrofon-logo{
+    width: 32px;
+    position: fixed;
+    top: 302px;
+    left: 990px;
+    border-radius: 20px;
+}
